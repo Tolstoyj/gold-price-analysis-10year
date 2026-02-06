@@ -45,7 +45,7 @@ This project uses the above dataset. All credit for the dataset goes to **Sana I
 
 1. **Clone and enter the repo**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/gold-price-analysis-10year.git
+   git clone https://github.com/Tolstoyj/gold-price-analysis-10year.git
    cd gold-price-analysis-10year
    ```
 
